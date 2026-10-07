@@ -1,0 +1,7 @@
+{
+  "name": "movieMatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
